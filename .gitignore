@@ -1,0 +1,11 @@
+#https key
+/key
+
+rebase-merge/
+
+.env
+
+.vscode
+
+README.md
+gitコマンド等.txt
